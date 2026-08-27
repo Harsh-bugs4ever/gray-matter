@@ -54,7 +54,8 @@
     "write": "^1.0.3"
   },
   "overrides": {
-    "braces": "3.0.3"
+    "braces": "3.0.3",
+    "micromatch": "4.0.8"
   },
   "keywords": [
     "assemble",
