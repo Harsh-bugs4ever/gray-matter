@@ -53,6 +53,9 @@
     "vinyl": "^2.1.0",
     "write": "^1.0.3"
   },
+  "overrides": {
+    "braces": "3.0.3"
+  },
   "keywords": [
     "assemble",
     "coffee",
